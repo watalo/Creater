@@ -1,11 +1,4 @@
-'''
-Author: your name
-Date: 2020-09-27 12:26:31
-LastEditTime: 2020-09-28 14:32:58
-LastEditors: Please set LastEditors
-Description: In User Settings Edit
-FilePath: /Creater/bin/creater/main.py
-'''
+
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 '''
